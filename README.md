@@ -13,3 +13,12 @@ Haarcascades files can be found here: https://github.com/opencv/opencv/tree/mast
 
 ## test_webcam_face_ml.py
 Detect face, create mean face image and predict age, gender and emotion from this mean face image.
+
+## test_mic.py
+Mic test with `pyaudio`.
+
+## test_mic_ml.py
+Predict voice age and gender.
+
+## test_webcam_mic_ml.py
+Predict age, gender on audio and face, and emotions on face.
