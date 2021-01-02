@@ -22,3 +22,11 @@ Predict voice age and gender.
 
 ## test_webcam_mic_ml.py
 Predict age, gender on audio and face, and emotions on face.
+
+# Machine learning model
+## Face
+* Age: https://github.com/aruno14/ageRecognition
+* Emotions: https://github.com/aruno14/emotionRecognition
+* Gender: https://github.com/aruno14/genderRecognition
+## Voice
+* Gender and Age: https://github.com/aruno14/speechRecognition
